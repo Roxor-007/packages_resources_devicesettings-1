@@ -212,4 +212,9 @@
     <string name="fps_info_title">Contador de FPS</string>
     <string name="powershare_enable_title">Compartilhamento de bateria</string>
     <string name="powershare_enable_summary">Carregue outros dispositivos colocando-os na parte de trás do telefone</string>
+    <string name="dirac_headset_optimization">Otimização de som</string>
+    <string name="dirac_headset_scenario_intelligent">Inteligente</string>
+    <string name="dirac_headset_scenario_music">Música</string>
+    <string name="dirac_headset_scenario_video">Vídeo</string>
+    <string name="dirac_headset_scenario_vocal">Voz</string>
 </resources>
